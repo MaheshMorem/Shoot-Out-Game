@@ -1,0 +1,16 @@
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\bin\Debug\netcoreapp3.1\FlappyBird2.exe
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\bin\Debug\netcoreapp3.1\FlappyBird2.deps.json
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\bin\Debug\netcoreapp3.1\FlappyBird2.runtimeconfig.json
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\bin\Debug\netcoreapp3.1\FlappyBird2.runtimeconfig.dev.json
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\bin\Debug\netcoreapp3.1\FlappyBird2.dll
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\bin\Debug\netcoreapp3.1\FlappyBird2.pdb
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.csprojAssemblyReference.cache
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.Form1.resources
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.Properties.Resources.resources
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.csproj.GenerateResource.cache
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.AssemblyInfoInputs.cache
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.AssemblyInfo.cs
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.csproj.CoreCompileInputs.cache
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.dll
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.pdb
+D:\Back up17052021\Desktop\C sharp\FlappyBird2\obj\Debug\netcoreapp3.1\FlappyBird2.genruntimeconfig.cache
